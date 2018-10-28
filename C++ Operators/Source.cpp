@@ -24,6 +24,11 @@ int main()
 		cout << "You did notchose y or Y" << endl;
 		cout << "Your progress has not been saved" << endl;
 
+	char response2 = 'y';
+		if (response2 == 'y' || response2 == 'Y')
+		{
+			cout << "Positive response received" << endl;
+		}
 
 		
 
