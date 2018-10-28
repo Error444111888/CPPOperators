@@ -1,4 +1,4 @@
-// My introduction to C++ Operators 2 test - Pasha
+// My introduction to C++ Operators - Ray
 // ConsoleApplication2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // 
 
